@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "MascotasSOS",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
